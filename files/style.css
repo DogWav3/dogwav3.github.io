@@ -1,0 +1,146 @@
+body {
+	background-color: #222222;
+}
+
+h1  {
+	font-family: 'Permanent Marker';
+	color: #0F0F0F;
+	text-align: center;
+}
+
+h2  {
+	font-family: 'Permanent Marker';
+	color: #0F0F0F;
+	text-align: center;
+}
+
+h4  {
+	font-family: 'Permanent Marker';
+	color: #767435;
+	text-align: center;
+	font-size: 24px;
+}
+
+.title {
+	font-size: 58px;
+}
+
+.helpme {
+	font-size: 32px;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+
+.mc {
+	display: table-row;
+	text-align: center;
+	background-color: #767435;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+
+}
+
+.mc p {
+	font-family: 'Permanent Marker';
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 40px;
+	color: #222222;
+	width: 200px;
+}
+
+.vst {
+	display: table-row;
+	text-align: center;
+	background-color: #767435;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+
+}
+
+.vst p {
+	font-family: 'Permanent Marker';
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 40px;
+	color: #222222;
+	width: 200px;
+}
+
+.cy {
+	display: table-row;
+	text-align: center;
+	background-color: #767435;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+}
+
+.cy p {
+	font-family: 'Permanent Marker';
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 29.99px;
+	color: #222222;
+	width: 200px;
+}
+
+.bc {
+	display: table-row;
+	text-align: center;
+	background-color: #767435;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+}
+
+.bc p {
+	font-family: 'Permanent Marker';
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 29.99px;
+	color: #222222;
+	width: 200px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.buttons {
+	margin-left: auto;
+	margin-right: auto;
+	width: 811.99px;
+}
+
+.buttons :hover {
+    transition: 1.5s;
+    background-color: #5A7635;
+}
+
+.head {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #767435;
+	height: 500px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #222222;
+}
+
+.text1 h2{
+	color: #767435;
+}
